@@ -1,0 +1,213 @@
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.exe
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfoInputs.cache
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.RazorTargetAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.Manifest.cache
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.xml
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csproj.CopyComplete
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.deps.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.dev.json
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Scrutor.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.exe
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.deps.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.dev.json
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Scrutor.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.Manifest.cache
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.xml
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfoInputs.cache
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfo.cs
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.RazorTargetAssemblyInfo.cache
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csproj.CopyComplete
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Users\rs-nenmitr-01\Downloads\ExchangeRateCalculations\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.exe
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.deps.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.dev.json
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Scrutor.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csprojAssemblyReference.cache
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfoInputs.cache
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfo.cs
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csproj.CopyComplete
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.xml
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivan\Downloads\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.exe
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.deps.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.dev.json
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Scrutor.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfoInputs.cache
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.RazorTargetAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csproj.CopyComplete
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.Manifest.cache
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.xml
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\POSLATO 201008_0450\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.exe
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.deps.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.runtimeconfig.dev.json
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Scrutor.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ServiceStack.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ServiceStack.Client.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ServiceStack.Common.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\ServiceStack.Text.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.MvcApplicationPartsAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfoInputs.cache
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.AssemblyInfo.cs
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.RazorTargetAssemblyInfo.cache
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csproj.CopyComplete
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.Manifest.cache
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\staticwebassets\ExchangeRateCalculations.StaticWebAssets.xml
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.dll
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.pdb
+C:\Fajlovi\Dokumenta\TASK\_VERZIJA_201008_1712\ExchangeRateCalculations\obj\Debug\netcoreapp3.0\ExchangeRateCalculations.csprojAssemblyReference.cache
