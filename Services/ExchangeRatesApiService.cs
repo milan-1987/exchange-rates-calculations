@@ -102,7 +102,7 @@ namespace ExchangeRateCalculations.Services
                 {
                     return d.Key == p.Key || d.Value == p.Key;
                 }))
-                    .ToDictionary(p => p.Key, p => (decimal)p.Value.Fields[targetCurrency])
+                    .ToDictionary(p => datesDictionary.FirstOrDefault(d => d.Value == p.Key).Key /*p.Key*/, p => (decimal)p.Value.Fields[targetCurrency])
                     .OrderBy(p => p.Value);
 
                 var minRate = rates.First();
